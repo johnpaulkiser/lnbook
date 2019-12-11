@@ -13,8 +13,8 @@ Asymmetric Cryptographic System::
     https://en.wikipedia.org/w/index.php?title=Public-key_cryptography&oldid=877579180
 
 Autopilot::
-    The autopilot is a recommendation engine for Lightning Network nodes that uses statistics of the known topology to suggest which nodes they should open channels with.
-    Depending on the implementation of the autopilot, the channel capacity may also be recommended.
+    The autopilot is a recommendation engine for Lightning Network nodes that uses statistics of the known network topology to suggest nodes with whom they should open channels.
+    Depending on the implementation of the autopilot, a channel's capacity may also be recommended.
     Autopilots are not part of the Lightning Network Protocol.
 
 Balance::
